@@ -1,9 +1,9 @@
 @font-face {
     font-family: samim;
     /* src: url('FontName.eot'); */
-    src: url('../../CampProject/assets/fonts/Samim.eot'),
-         url('../../CampProject/assets/fonts/Samim.woff') format('woff'),
-         url('../../CampProject/assets/fonts/Samim.ttf') format('truetype');
+    src: url('/CampProject/assets/fonts/Samim.eot'),
+         url('/CampProject/assets/fonts/Samim.woff') format('woff'),
+         url('/CampProject/assets/fonts/Samim.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
   }
